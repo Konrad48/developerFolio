@@ -381,8 +381,8 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+48 505 501 104",
-  email_address: "k.janecki184@gmail.com"
+  number: "",
+  email_address: ""
 };
 
 // Twitter Section
