@@ -225,7 +225,7 @@ const bigProjects = {
   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [
     {
-      image: require("./assets/images/sellipus-logo-rounded.png"),
+      image: require("./assets/images/slajd1.png"),
       projectName: "Selliplus",
       projectDesc: "A chrome extension that helps sales professionals make more valuable connections on LinkedIn.",
       footerLink: [
@@ -237,7 +237,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/kaizen_ai_logo.png"),
+      image: require("./assets/images/kaizen_showcase.png"),
       projectName: "Kaizen AI",
       projectDesc: "App that helps production companies optimize their processes using AI",
       footerLink: [
